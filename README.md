@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Yaretzy
 
-🌱 I’m currently learning at General Assembly I am student in their Software Engineering + Java Immersive program. This opportunity was made possible by Interapt.
+🌱 I’m currently completing my software engineering apprentinceship after being a student at General Assembly
 
 💬 Ask me about books, anime, software engineering, java, javascript, html, css, technologies
 
