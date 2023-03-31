@@ -4,7 +4,7 @@
 
 💬 Ask me about books, anime, software engineering, java, javascript, html, css, technologies
 
-📫 How to reach me: yaretzycharo16@gmail.com, twitter: yaretzycharo
+<!-- 📫 How to reach me: yaretzycharo16@gmail.com, twitter: yaretzycharo -->
 
 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: ... -->
